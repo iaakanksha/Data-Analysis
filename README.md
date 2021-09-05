@@ -41,7 +41,7 @@ Namaste!!
 
 Student | Programmer | Learner
 
-I'm a Machine Learning Enthusiast and a Disciplined Coder.. Trying my hand on Deep Learning, OpenCV, Data Analysis..
+I'm a Machine Learning Enthusiast and a Disciplined Coder.. Trying my hand on Deep Learning, OpenCV, Data Analysis and much more..
 
   
 ## Support
