@@ -30,7 +30,10 @@ Uber Datasets = https://drive.google.com/file/d/12fZjsUUmaMzK87JaiVjaO5X9Z_cjjC9
  ```
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+Some visuals of data from each dataset ahead..
+
+![hotel](https://user-images.githubusercontent.com/69616742/132134927-848c4acb-0c67-42d5-a259-ef5c4f3725f2.png)
+![uber](https://user-images.githubusercontent.com/69616742/132134934-9d17d368-5ffa-4ead-87e5-5950fc6b58e1.png)
 
   
 ## 🚀 About Me
