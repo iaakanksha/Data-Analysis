@@ -36,6 +36,7 @@ Some visuals of data from each dataset ahead..
 ![hotel](https://user-images.githubusercontent.com/69616742/132134927-848c4acb-0c67-42d5-a259-ef5c4f3725f2.png)
 ![uber](https://user-images.githubusercontent.com/69616742/132134934-9d17d368-5ffa-4ead-87e5-5950fc6b58e1.png)
 ![covid](https://user-images.githubusercontent.com/69616742/132491179-679bd0eb-450b-452e-8bac-3968609b7b0f.png)
+![bank](https://user-images.githubusercontent.com/69616742/132551206-60482355-0604-4a09-a0e0-fa5190609f10.png)
 
   
 ## 🚀 About Me
