@@ -28,6 +28,7 @@ Packages to install
 Uber Datasets = https://drive.google.com/file/d/12fZjsUUmaMzK87JaiVjaO5X9Z_cjjC9b/view?usp=sharing
 Hotel Booking Dataset= https://drive.google.com/file/d/1KnQsuugrUlD20z37Cs2c5UEv-1Plyadj/view?usp=sharing
 Covid 19 Dataset = https://drive.google.com/file/d/1qskw-mw9xWPxMbCUneKH3Xcfa8QVeN1C/view?usp=sharing
+Amazon Dataset = https://drive.google.com/file/d/1pN48edpCDhrXqlhqbPoN-8dFkmZ8F9ZS/view?usp=sharing
  ```
 ## Screenshots
 
