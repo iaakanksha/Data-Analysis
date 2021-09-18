@@ -1,5 +1,6 @@
 
-# Data Analysis  (Mini project Series)
+
+<h1 align="center">Data Analysis  (Mini project Series) </h1>
 
 Hi,
    Welcome to this mini project series on Data Analysis. This repo contains 5 detailed analysis mini projects done on differentbulky datasets. The datasets link is also provided. 
