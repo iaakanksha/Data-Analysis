@@ -38,7 +38,7 @@ Some visuals of data from each dataset ahead..
 ![uber](https://user-images.githubusercontent.com/69616742/132134934-9d17d368-5ffa-4ead-87e5-5950fc6b58e1.png)
 ![covid](https://user-images.githubusercontent.com/69616742/132491179-679bd0eb-450b-452e-8bac-3968609b7b0f.png)
 ![bank](https://user-images.githubusercontent.com/69616742/132551206-60482355-0604-4a09-a0e0-fa5190609f10.png)
-
+![amazon](https://user-images.githubusercontent.com/69616742/133887200-bba43636-7144-4423-b538-4376415bda0d.png)
   
 ## 🚀 About Me
 Namaste!!
